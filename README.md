@@ -6,7 +6,7 @@ Quem sou eu??
 
 > Esse projeto trata-se da minha apresentação e do meu primeiro projeto no HTML.
 
-### Ajustes e melhorias
+
 
 
 ## 🤝 Colaboradores
@@ -17,7 +17,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="." width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./assets/ProfilePicturePhoto.jpg" width="100px;" alt="Foto do Guilherme"/><br>
         <sub>
           <b>Guilherme Nogueira</b>
         </sub>
@@ -29,4 +29,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#Quemsoueu?)<br>
